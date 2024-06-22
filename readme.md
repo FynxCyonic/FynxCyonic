@@ -1,6 +1,10 @@
+<img src="https://github.com/FynxCyonic/FynxCyonic/blob/stable/assets/icon_large.png" alt="FynxCyonic Large Logotype" style="width: 1920px; height: 150px; border-radius: 40px;">
+
+
+
 # Welcome to FynxCyonic Wiki!
 
-<img src="https://github.com/FynxCyonic/FynxCyonic/blob/stable/assets/icon_large.png" alt="FynxCyonic Large Logotype" style="width: 1920px; height: 300px;">
+
 
 
 
