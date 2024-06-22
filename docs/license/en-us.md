@@ -1,9 +1,9 @@
 ## License for Personal Use or Internal Use
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/en-us.md">English 🇺🇸</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license/en-us.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/pt-br.md">Português 🇧🇷</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license/pt-br.md">Português 🇧🇷</a>
 </p>
 
 This is a contract between you (referred to as "User") and Myru (referred to as "Owner") for the use of the MyruCyonic software (referred to as "Software").
@@ -59,11 +59,11 @@ BY INSTALLING, COPYING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ
 <watermark-footer>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribute ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribute ☕
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Go back to Wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
   •
   <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
   </a>

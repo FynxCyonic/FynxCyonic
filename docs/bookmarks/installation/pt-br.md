@@ -2,29 +2,29 @@
     Bem-Vindo ao MyruCyonic! - Tutoriais 
 </h1>
 
-<picture><img align="left" src="https://github.com/worbadillitics/MyruCyonic/tree/stable/assets/install_icon.jpg" width="5%"/></picture>
+<picture><img align="left" src="https://github.com/FynxCyonic/FynxCyonic/tree/stable/assets/install_icon.jpg" width="5%"/></picture>
 ## Tutorial de Instalação e Uso
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/installation/en-us.md">English 🇺🇸</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/installation/en-us.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/installataion/pt-br.md">Português 🇧🇷</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/installataion/pt-br.md">Português 🇧🇷</a>
 </p>
 
 
 <p align="center">
    <a>
 
-   ![GitHub last commit](https://img.shields.io/github/last-commit/Worbadillitics/MyruCyonic)
-   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Worbadillitics/MyruCyonic)
-   ![GitHub issues](https://img.shields.io/github/issues/Worbadillitics/MyruCyonic)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/FynxCyonic/FynxCyonic)
+   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/FynxCyonic/FynxCyonic)
+   ![GitHub issues](https://img.shields.io/github/issues/FynxCyonic/FynxCyonic)
   </a>  
 </p>
 
 ## Installation
 
 
-1. Baixe o instalador do MyruCyonic [pelo site oficial](https://github.com/worbadillitics/MyruCyonic/releases/).
+1. Baixe o instalador do MyruCyonic [pelo site oficial](https://github.com/FynxCyonic/FynxCyonic/releases/).
 
 > [!IMPORTANT]
 > **Leia todas** as instruções antes de fazer qualquer coisa!
@@ -41,7 +41,7 @@
 3. Após a instalação, inicie o MyruCyonic e comece a otimizar seu sistema operacional Windows.
 
 
-<picture><img align="left" src="https://github.com/worbadillitics/MyruCyonic/tree/stable/assets/user_icon.jpg" width="5%"/></picture>
+<picture><img align="left" src="https://github.com/FynxCyonic/FynxCyonic/tree/stable/assets/user_icon.jpg" width="5%"/></picture>
 ## Uso
 
 
@@ -71,11 +71,11 @@ MyruCyonic não está funcionando?
 <watermark-footer>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribua ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribua ☕
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Volte para a wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Volte para a wiki 📚
   •
   <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
   </a>

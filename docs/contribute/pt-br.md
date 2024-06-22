@@ -2,20 +2,20 @@
 
 
 <p align="center">
-   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Inglês 🇺🇸</a>
+   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Inglês 🇺🇸</a>
    •
-   <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/contribute/pt-br.md">Português 🇧🇷</a>
+   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/contribute/pt-br.md">Português 🇧🇷</a>
 </p>
 
 
 > Bem-vindo à página de contribuição do nosso sistema de otimizações.
 >
->> Se houver um problema com um de nossos otimizadores, entre em contato com o suporte através de [GitHub Issues](https://github.com/worbadillitics/MyruCyonic/issues/new)
+>> Se houver um problema com um de nossos otimizadores, entre em contato com o suporte através de [GitHub Issues](https://github.com/FynxCyonic/FynxCyonic/issues/new)
 
 > Por favor, leia estes antes de se inscrever:
-1. [O que é MyruCyonic?](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/en-us.md)
-2. [Licenças MyruCyonic](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license/pt-br.md)
-3. [Código de Conduta](https://github.com/worbadillitics/MyruCyonic/blob/stable/CODE_OF_CONDUCT.md)
+1. [O que é MyruCyonic?](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/en-us.md)
+2. [Licenças MyruCyonic](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license/pt-br.md)
+3. [Código de Conduta](https://github.com/FynxCyonic/FynxCyonic/blob/stable/CODE_OF_CONDUCT.md)
 
 # Por que você precisa ser um Colaborador?
 
@@ -27,7 +27,7 @@ Simples, com a sua ajuda e com um toque de telemetria, podemos escanear os erros
 **Benefícios exclusivos para Colaboradores Ativos :D** (**) <br>
 Os contribuidores mais dedicados podem obter uma generosidade em nosso servidor discord, como benefício in-role, acesso ao canal, mais xp, mais chance em brindes e etc.
 
-**Mais informações sobre contribuidores, leia [esta página](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/contribute-benefits/en-us.md)**
+**Mais informações sobre contribuidores, leia [esta página](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/contribute-benefits/en-us.md)**
 
 
 
@@ -36,11 +36,11 @@ Os contribuidores mais dedicados podem obter uma generosidade em nosso servidor 
 <watermark-footer>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribuir ☕
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Voltar para a wiki 📚
   •
   <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
   </a>

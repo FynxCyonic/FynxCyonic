@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/security.md">English 🇺🇸</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/security.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/wiki/pt-br.md">Português 🇧🇷</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/wiki/pt-br.md">Português 🇧🇷</a>
 </p>
 
 
@@ -40,7 +40,7 @@ Our security system has telemetry, where you can send your ID, the insecure part
 **Peace of mind to optimize your PC:**
 
 MyruCyonic was developed with security in mind, using best practices to ensure your system is protected. We prioritize your security and take rigorous measures to ensure our software is free from malware and vulnerabilities.
-[To search all releases to check Sha256 / Malware checkups, click on me! ( Raw Text ) ](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/release_logs/en-us.md)
+[To search all releases to check Sha256 / Malware checkups, click on me! ( Raw Text ) ](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/release_logs/en-us.md)
 
 
 **Our Commitment to Safety:**
@@ -60,7 +60,7 @@ If your notification is valid, we'll activate lockdown system and update MyruCyo
 
 **Follow these steps to report a vulnerability:**
 
-1. **Access our [GitHub Security](https://github.com/worbadillitics/MyruCyonic/security/advisories/new):**
+1. **Access our [GitHub Security](https://github.com/FynxCyonic/FynxCyonic/security/advisories/new):**
 <br>
 2. **If you aren't Logged, make an login / logon.**
 <br>
@@ -87,11 +87,11 @@ And, if you make an **total report = 3 issues / security vulnerabilities, we wil
 <watermark-footer>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribute ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribute ☕
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Go back to Wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
   •
   <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
   </a>

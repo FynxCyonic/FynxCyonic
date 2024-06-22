@@ -2,17 +2,17 @@
 <h1> Descrição </h1>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/en-us.md">English 🇺🇸</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/en-us.md">English 🇺🇸</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/bookmarks/pt-br.md">Português 🇧🇷</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/pt-br.md">Português 🇧🇷</a>
 </p>
 
 <p align="center">
   
-  <a>![GitHub](https://img.shields.io/github/license/Worbadillitics/MyruCyonic)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/Worbadillitics/MyruCyonic)
-   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Worbadillitics/MyruCyonic)
-   ![GitHub issues](https://img.shields.io/github/issues/Worbadillitics/MyruCyonic)
+  <a>![GitHub](https://img.shields.io/github/license/FynxCyonic/FynxCyonic)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/FynxCyonic/FynxCyonic)
+   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/FynxCyonic/FynxCyonic)
+   ![GitHub issues](https://img.shields.io/github/issues/FynxCyonic/FynxCyonic)
   </a>  
 </p>
 
@@ -44,18 +44,18 @@
 
 ## Contribuição
 
-O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Contribuição](https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md).
+O MyruCyonic é de código fechado, para contribuir faça sua sugestão em: [Sessão de Contribuição](https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md).
 
 Dê um exemplo de código em **.bat** e o porque nós precisamos seguir a sua sugestão adiante.
 
 ## Suporte
 
-Para obter suporte ou relatar problemas, entre em contato conosco através do nosso [servidor do discord](https://discord.gg/a5tXD92Y38) ou [abra uma issue no Gitea.](https://gitea.com/Worbadillitics/MyruCyonic/issues/new)
+Para obter suporte ou relatar problemas, entre em contato conosco através do nosso [servidor do discord](https://discord.gg/a5tXD92Y38) ou [abra uma issue no Gitea.](https://gitea.com/FynxCyonic/FynxCyonic/issues/new)
 
 ## Licença
 
 MyruCyonic é distribuído sob a Licença de Uso Pessoal ou Uso Interno.
-[Para ver a licença completa, clique aqui!](https://github.com/worbadillitics/MyruCyonic/blob/stable/docs/license.md)
+[Para ver a licença completa, clique aqui!](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license.md)
 
 A Licença de Uso Pessoal ou Licença de Uso Interno refere-se a uma autorização concedida para o uso restrito de um produto, software ou conteúdo. Geralmente, essa licença permite que um indivíduo utilize o item licenciado apenas para fins pessoais ou internos dentro de uma organização, sem a possibilidade de redistribuição ou uso comercial.
 
@@ -71,11 +71,11 @@ Myru'
 <watermark-footer>
 
 <p align="center">
-  <a href="https://github.com/worbadillitics/MyruCyonic">Source 💿</a>
+  <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/contribute.md">Contribuir ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribuir ☕
   •
-  <a href="https://github.com/worbadillitics/MyruCyonic/blob/stable/readme.md">Voltar para a wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Voltar para a wiki 📚
   •
   <a href="https://github.com/worbadillitics/">Desenvolvido por Myru' 🎈
   </a>
