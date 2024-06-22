@@ -1,6 +1,8 @@
 # Welcome to FynxCyonic Wiki!
 
-<img src="https://github.com/FynxCyonic/FynxCyonic/blob/stable/assets/icon_large.png" alt="FynxCyonic Large Logotype">
+<img src="https://github.com/FynxCyonic/FynxCyonic/blob/stable/assets/icon_large.png" alt="FynxCyonic Large Logotype" style="width: 1920px; height: 300px;">
+
+
 
 <p align="center">
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">English 🇺🇸</a>
