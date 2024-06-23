@@ -9,7 +9,7 @@
 
 </div>
 
-# Welcome to MyruCyonic Wiki
+# Welcome to FynxCyonic Wiki - Bem vindo a Wiki do FynxCyonic
 
 <p align="center">
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">English 🇺🇸</a>
@@ -21,7 +21,7 @@
 >
 >> Se houver algum problema com um dos menus, entre em contato com o suporte via [GitHub Issues](https://github.com/FynxCyonic/FynxCyonic/issues/new)
 
-1. [Oque é o MyruCyonic?](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/en-us.md)
+1. [Oque é o FynxCyonic?](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/en-us.md)
 2. [Licenças de Uso](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license/pt-br.md)
 3. [Código de Conduta](https://github.com/FynxCyonic/FynxCyonic/blob/stable/CODE_OF_CONDUCT.md)
 4. [Instalação e Uso](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/bookmarks/installation/pt-br.md)
