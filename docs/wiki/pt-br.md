@@ -9,7 +9,7 @@
 
 </div>
 
-# Welcome to FynxCyonic Wiki - Bem vindo a Wiki do FynxCyonic
+# Bem vindo a Wiki do FynxCyonic
 
 <p align="center">
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">English 🇺🇸</a>
