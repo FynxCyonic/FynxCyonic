@@ -37,13 +37,13 @@
   •
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
   •
-  <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
+  <a href="https://github.com/worbadillitics/">Optimizer Head Developer : Luis Antonio 🎈
   </a>
   
 </p>
 
 </watermark-footer>
 
-Developed by Myru' - [My Projects](https://github.com/Worbadillitics)
+Optimizer Head Developer : Luis Antonio - [My Projects](https://github.com/Worbadillitics)
 
 <final-de-pagina>

@@ -42,13 +42,13 @@ The most dedicated contributors can get an generosity on our discord server, suc
   •
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
   •
-  <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
+  <a href="https://github.com/worbadillitics/">Optimizer Head Developer : Luis Antonio 🎈
   </a>
   
 </p>
 
 </watermark-footer>
 
-Developed by Myru' - [My Projects](https://github.com/Worbadillitics) ( Translated by Myru' Su Ka )
+Optimizer Head Developer : Luis Antonio - [My Projects](https://github.com/Worbadillitics) ( Translated by Myru' Su Ka )
 
 <final-de-pagina>
