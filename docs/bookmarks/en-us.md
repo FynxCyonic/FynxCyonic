@@ -1,4 +1,4 @@
-# MyruCyonic - Optimizing your Windows® for a better everyday life!
+# FynxCyonic - Optimizing your Windows® for a better everyday life!
 
 
 
@@ -19,7 +19,7 @@
   </a>  
 </p>
 
-<h2>MyruCyonic is a powerful tool designed to optimize the performance of your Windows operating system, providing a faster and more fluid experience. With a variety of customizable features and settings it allows you to maximize the efficiency of your operating system, improving startup, system response and overall speed.<br><br></h2>
+<h2>FynxCyonic is a powerful tool designed to optimize the performance of your Windows operating system, providing a faster and more fluid experience. With a variety of customizable features and settings it allows you to maximize the efficiency of your operating system, improving startup, system response and overall speed.<br><br></h2>
 
 
 ## Features
@@ -44,7 +44,7 @@
 ## Contribution
 
 
-MyruCyonic is closed source, to contribute make your suggestion in: [Contribuition Tutorial](https://github.com/FynxCyonic/FynxCyonic/blob/contribute.md).
+FynxCyonic is closed source, to contribute make your suggestion in: [Contribuition Tutorial](https://github.com/FynxCyonic/FynxCyonic/blob/contribute.md).
 
 
 Give a code example in **.bat** and why we need to follow your suggestion further.
@@ -59,7 +59,7 @@ For support or to report problems, please contact us via our [discord server](ht
 ## License
 
 
-MyruCyonic is distributed under the Personal Use or Internal Use License.
+FynxCyonic is distributed under the Personal Use or Internal Use License.
 
 [To see the full license, click here!](https://github.com/FynxCyonic/FynxCyonic/blob/stable/docs/license-en.md)
 
@@ -85,13 +85,13 @@ For example, if you purchase software with a personal use license, you can insta
   •
   <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
   •
-  <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
+  <a href="https://github.com/RuisuGit/">Developed by Myru' 🎈
   </a>
   
 </p>
 
 </watermark-footer>
 
-Developed by Myru' - [My Projects](https://github.com/Worbadillitics)
+Developed by Myru' (or Ruisu) - [My Projects](https://github.com/Worbadillitics)
 
 <final-de-pagina>
